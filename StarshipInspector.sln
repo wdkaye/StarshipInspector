@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "StarshipInspector", "StarshipInspector.esproj", "{BF469DC2-3341-46C8-83EC-BAB0C229745D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF469DC2-3341-46C8-83EC-BAB0C229745D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF469DC2-3341-46C8-83EC-BAB0C229745D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF469DC2-3341-46C8-83EC-BAB0C229745D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BF469DC2-3341-46C8-83EC-BAB0C229745D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF469DC2-3341-46C8-83EC-BAB0C229745D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF469DC2-3341-46C8-83EC-BAB0C229745D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C40955-6428-4F35-98C4-63567EE435CE}
+	EndGlobalSection
+EndGlobal
